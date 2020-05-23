@@ -1,0 +1,18 @@
+.home{
+  text-align: center;
+  
+}
+
+
+.home .card-body{
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.home .card-title{
+
+  margin-bottom: 50px;
+
+}
+
+  
